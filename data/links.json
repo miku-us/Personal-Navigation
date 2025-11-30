@@ -8,17 +8,25 @@
     ]
   },
   {
-    "category": "开发工具",
+    "category": "影視音樂",
     "links": [
-      { "name": "VS Code", "url": "https://code.visualstudio.com/" },
-      { "name": "Stack Overflow", "url": "https://stackoverflow.com/" }
+      { "name": "solara音樂", "url": "https://solara.mikuus.dpdns.org/" },
+      { "name": "libretv", "url": "https://mikuus.dpdns.org/" }
     ]
   },
   {
-    "category": "设计资源",
+    "category": "nas穿透域名",
     "links": [
-      { "name": "Unsplash", "url": "https://unsplash.com/" },
-      { "name": "Figma", "url": "https://www.figma.com/" }
+      { "name": "飛牛nas", "url": "https://fn39.dpdns.org/" },
+      { "name": "jellyfin", "url": "https://ms.mikuus.dpdns.org/" }
+    ]
+   },
+   {
+    "category": "提醒與訂閱鏈接",
+    "links": [
+      { "name": "定時提醒", "url": "https://tixing.constanceotis418.workers.dev/" },
+      { "name": "cf免費代理", "url": "https://link.mikuus.dpdns.org/" }
+      { "name": "台灣代理", "url": "https://link2.mikuus.dpdns.org/" }
     ]
   }
 ]
